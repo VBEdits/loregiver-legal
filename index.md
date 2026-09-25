@@ -1,15 +1,19 @@
 ---
-title: Loregiver — Legal
+title: Loregiver
 ---
 
 # Loregiver
 
-Documentos legales de las aplicaciones publicadas por **Loregiver**.
+Páginas de las aplicaciones publicadas por **Loregiver**.
 
 ## Bars & Balls
 
-- [Política de privacidad / Privacy Policy](bars-and-balls)
+Un arcade vertical de reflejos y precisión para Android.
+
+- [Página del juego / Game page](juegos/bars-and-balls)
+- [Política de privacidad / Privacy policy](bars-and-balls)
+- [Condiciones del servicio / Terms of service](condiciones/bars-and-balls)
 
 ---
 
-Contacto: **jjvilbe@gmail.com**
+Contacto: **soporte@vbedits.com**

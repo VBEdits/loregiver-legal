@@ -4,14 +4,14 @@ title: Política de privacidad — Bars & Balls
 
 # Política de privacidad — Bars & Balls
 
-**Última actualización: 24 de septiembre de 2026**
+**Última actualización: 25 de septiembre de 2026**
 
 
 ## Quién es el responsable
 
 Bars & Balls lo desarrolla **Loregiver**.
 
-Contacto: **jjvilbe@gmail.com**
+Contacto: **soporte@vbedits.com**
 
 ## Resumen en una frase
 
@@ -94,7 +94,7 @@ vuelva a aparecer.
 
 Bars & Balls no está dirigido a menores de 13 años y no recoge a sabiendas
 datos de menores. Si crees que un menor a tu cargo ha proporcionado datos,
-escribe a **jjvilbe@gmail.com**.
+escribe a **soporte@vbedits.com**.
 
 ## Cuánto tiempo se conservan los datos
 
@@ -112,7 +112,7 @@ que pedirle al desarrollador. Para los datos que tiene Google:
 - Publicidad: puedes restablecer o borrar el identificador desde los ajustes
   de Android.
 
-Para cualquier duda: **jjvilbe@gmail.com**.
+Para cualquier duda: **soporte@vbedits.com**.
 
 ## Cambios en esta política
 
@@ -125,13 +125,13 @@ Play.
 
 # Privacy Policy — Bars & Balls
 
-**Last updated: 24 September 2026**
+**Last updated: 25 September 2026**
 
 ## Who is responsible
 
 Bars & Balls is developed by **Loregiver**.
 
-Contact: **jjvilbe@gmail.com**
+Contact: **soporte@vbedits.com**
 
 ## In one sentence
 
@@ -198,7 +198,7 @@ ad-based continue still works with non-personalised ads.
 
 Bars & Balls is not directed at children under 13 and does not knowingly
 collect data from children. If you believe a child in your care has provided
-data, write to **jjvilbe@gmail.com**.
+data, write to **soporte@vbedits.com**.
 
 ## Retention
 
@@ -215,7 +215,7 @@ nothing to request from the developer. For the data Google holds:
   [your Google account](https://myaccount.google.com/).
 - Advertising: you can reset or delete the identifier in Android settings.
 
-Questions: **jjvilbe@gmail.com**.
+Questions: **soporte@vbedits.com**.
 
 ## Changes
 
